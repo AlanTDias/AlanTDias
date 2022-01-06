@@ -1,6 +1,6 @@
 ### Welcome my repositore I´m Alan_Dias
 
-- I'm learning Java, Python and Web Language.
+- I'm learning Python and Web Language.
 - Pronouns: ele/dele
 
  <div>
